@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Fruktur&family=Lobster&display=swap');
+:root {
+    /*Font-size*/
+    --font-size-10: 10px;
+    --font-size-14: 14px;
+    --font-size-16: 16px;
+    --font-size-25: 25px;
+    --font-size-30: 30px;
+    --font-size-35: 35px;
+    --font-size-40: 40px;
+    --font-size-55: 55px;
+
+    /*Font-family*/
+    --font-family-Fruktur: 'Fruktur', cursive;
+    --font-family-Dancing: 'Dancing Script', cursive;
+    --font-family-Lobster: 'Lobster', cursive;
+}

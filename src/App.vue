@@ -5,10 +5,12 @@
 </template>
 
 <style>
+@import "Styles/style.css";
 * {
   margin: 0;
+  padding: 0;
 }
-#app {
-  min-height: 100vh;
+body {
+  width: 100vw;
 }
 </style>
